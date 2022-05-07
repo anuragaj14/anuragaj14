@@ -3,7 +3,7 @@ I am a backend software engineer from India
 - 🔭 Working on multiple projects using Java and SpringBoot
 - 🌱 Striving to learn Microservices and Architecture
 - 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about : New Gadgets, Buying Advice
+- 💬 Ask me about : New Gadgets
 - 💙 Die hard Fan of : Assassin's Creed
 <br>
 
