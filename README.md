@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a backend software engineer from India
+I am a Software Engineer from India
 - 🔭 Working on multiple projects using Java and SpringBoot
 - 🌱 Striving to learn Microservices and Architecture
 - 👯 I’m looking to collaborate on Open Source projects
